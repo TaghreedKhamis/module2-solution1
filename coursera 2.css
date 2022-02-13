@@ -1,0 +1,94 @@
+.menu{
+    text-align: center ;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+
+.box1{
+    background-color: rgba(128, 128, 128, 0.794);
+    border: black solid  ;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.pp-1{
+    padding: 10px;
+}
+.box2{
+    background-color: rgba(128, 128, 128, 0.794);
+    border: black solid  ;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.pp-2{
+    padding: 10px;
+}
+
+.box3{
+    background-color: rgba(128, 128, 128, 0.794);
+    border: black solid  ;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.pp-3{
+    padding: 10px;
+}
+
+.p-1{
+    background-color: pink;
+    border-bottom: black solid;
+    border-left: black solid;
+
+    width: 120px;
+    text-align: center;
+}
+
+
+.p-2{
+    background-color: rgb(209, 68, 68);
+    border-bottom: black solid;
+    border-left: black solid;   
+     width: 120px;
+    text-align: center;
+    color: white;
+}
+
+.p-3{
+    background-color: rgb(243, 243, 148);
+    border-bottom: black solid;
+    border-left: black solid;
+    width: 120px;
+    text-align: center;
+}
+
+.p-1b1{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:flex-end;
+}
+
+.p-2b2{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:flex-end;}
+
+.p-3b3{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content:flex-end;
+}
+
